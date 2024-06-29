@@ -7,7 +7,7 @@ Anotasi dataset pada situs [Roboflow](https://roboflow.com/).
 Kemudian eksport dataset ke format YOLO dalam bentuk baris kode yang sudah disediakan.
 ![image](https://github.com/lordwildbeast/yolov5-train-tutorial/assets/116777219/bcddc6bf-1f0e-4956-99fb-c4cacd750e8f)
 
-Selanjutnya masuk ke dalam [Google Colab](https://colab.research.google.com/), platform ini tempat untuk model YOLO dilatih, tahapan awal adalah clone repositori YOLO dari Github serta menginstal library yang dibutuhkan untuk training model YOLO.
+Selanjutnya masuk ke dalam [Google Colab](https://colab.research.google.com/), platform ini tempat untuk model YOLO dilatih. Tahapan awal adalah buka [file notebook](https://github.com/lordwildbeast/yolov5-train-tutorial/blob/main/FIX_YOLOv5_Training_%2B_GDrive_Wildan.ipynb) menggunakan Colab. Selanjutnya clone repositori YOLO dari Github serta menginstal library yang dibutuhkan untuk training model YOLO.
 ![image](https://github.com/lordwildbeast/yolov5-train-tutorial/assets/116777219/8b71b65b-d5cd-4930-aa80-a2a67679f106)
 
 Tempel baris kode yang sebelumnya didapatkan dari Roboflow pada Colab.
